@@ -14,11 +14,11 @@ func main() {
 	fmt.Println(*b) // dereference
 
 	/*
-	b is an int pointer
-	b points to the memory address where an int is stored
-	to see the value of the memory address, add * in front of b
-	this is known as dereferencing
-	the * is an operator in this case
+		b is an int pointer
+		b points to the memory address where an int is stored
+		to see the value of the memory address, add * in front of b
+		this is known as dereferencing
+		the * is an operator in this case
 	*/
 
 }

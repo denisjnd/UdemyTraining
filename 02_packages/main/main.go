@@ -5,6 +5,6 @@ import (
 	"github.com/denisjnd/UdemyTraining/02_packages/stringutil"
 )
 
-func main()  {
+func main() {
 	fmt.Println(stringutil.MyName)
 }

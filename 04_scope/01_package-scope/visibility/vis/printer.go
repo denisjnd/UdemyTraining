@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func PrintVar()  {
+func PrintVar() {
 	fmt.Println(MyName)
 	fmt.Println(myText)
 }
